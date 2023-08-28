@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1691588504 source:c:\users\ali mar\coding--221\entreprise2\entreprise1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entreprise1.h"
+
+1691588492 c:\users\ali mar\coding--221\entreprise2\entreprise1.h
+
+1691588590 source:c:\users\ali mar\coding--221\entreprise2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entreprise1.h"
+	"entreprise1.c"
+
+1691589071 c:\users\ali mar\coding--221\entreprise2\entreprise1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"entreprise1.h"
+
